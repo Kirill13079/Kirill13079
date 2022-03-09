@@ -1,5 +1,3 @@
-## Note
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirill13079&repo=Note&show_icons=true&theme=radical)](https://github.com/Kirill13079/Note)
 
 <b>Play Market</b> - https://play.google.com/store/apps/details?id=com.kzhenkevich.note 
