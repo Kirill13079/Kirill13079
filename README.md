@@ -1,4 +1,4 @@
-- Hi, I’m Kirill
+Hi, I’m Kirill
 - Xamarin.Forms
 - .NET Development
 - Design
